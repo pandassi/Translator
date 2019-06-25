@@ -1,7 +1,4 @@
-@font-face {
-    font-family: "tamazight-tifinaghe";
-    src: url("xfonts/tamazight-latin.woff") format('woff');
-}
+
 
 html, body {
   font-family: 'Roboto', sans-serif;
@@ -15,7 +12,7 @@ html, body {
 /*<div><h1></h1></div> = h1 .tamazight-tifinaghe
 <h1 class="tamazight-tifinaghe"></h1> = h1.tamazight-tifinaghe*/
 
-h1.tamazight-tifinaghe {
+h1.alphabet {
 	font-family: 'Roboto', sans-serif;
 	font-size: 50px;
 
