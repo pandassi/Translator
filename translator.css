@@ -1,6 +1,6 @@
 @font-face {
     font-family: "tamazight-tifinaghe";
-    src: url("tamazight-tifinaghe.woff") format('woff');
+    src: url("fonts/tamazight-latin.woff") format('woff');
 }
 
 html, body {
