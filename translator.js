@@ -222,7 +222,7 @@ const quotes = [
 {
 	en: "I speak French.",
 	am: "Heḍraɣ ţarumiţ.",
-	phonetic: `${phoneticInline("[Hedragh thæroumith]")}`,
+	phonetic: `${phoneticInline("[Hedhragh thæroumith]")}`,
 },
 
 {
