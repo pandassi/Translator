@@ -156,7 +156,7 @@ const quotes = [
 {
 	en: "Congratulations!",
 	am: "Asseɛḍi!",
-	phonetic: `${phoneticInline("[Asseʕidhi]")}`,
+	phonetic: `${phoneticInline("[Asseʕdhi]")}`,
 },
 
 {
