@@ -208,7 +208,7 @@ const quotes = [
 },
 
 {
-	en: "You're welcome.",
+	en: "You are welcome.",
 	am: "Ulac aɣilif.",
 	phonetic: `${phoneticInline("[Oulæch əghilif]")}`,
 },
