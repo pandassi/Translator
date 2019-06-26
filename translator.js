@@ -161,8 +161,8 @@ const quotes = [
 
 {
 	en: "Happy New Year!",
-	am: "Aseguass amegaz!",
-	phonetic: `${phoneticInline("[Æsseguas aməgaz]")}`,
+	am: "Aseguas amegaz!",
+	phonetic: `${phoneticInline("[Æsseguass aməgaz]")}`,
 },
 
 {
