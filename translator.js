@@ -136,9 +136,9 @@ const quotes = [
 },
 
 {
-	en: "I didn't understand.",
+	en: "I did not understand.",
 	am: "Ur fhimɣara.",
-	phonetic: `${phoneticInline("[Uor fhimɣara]")}`,
+	phonetic: `${phoneticInline("[Our fhimghara]")}`,
 },
 
 {
@@ -156,13 +156,13 @@ const quotes = [
 {
 	en: "Congratulations!",
 	am: "Asseɛḍi!",
-	phonetic: `${phoneticInline("[Asseʕidhi]")}`,
+	phonetic: `${phoneticInline("[Asseʕdhi]")}`,
 },
 
 {
 	en: "Happy New Year!",
-	am: "Aseguass amegaz!",
-	phonetic: `${phoneticInline("[Æsseguas aməgaz]")}`,
+	am: "Aseguas amegaz!",
+	phonetic: `${phoneticInline("[Æsseguass aməgaz]")}`,
 },
 
 {
@@ -208,7 +208,7 @@ const quotes = [
 },
 
 {
-	en: "You're welcome.",
+	en: "You are welcome.",
 	am: "Ulac aɣilif.",
 	phonetic: `${phoneticInline("[Oulæch əghilif]")}`,
 },
@@ -222,7 +222,7 @@ const quotes = [
 {
 	en: "I speak French.",
 	am: "Heḍraɣ ţarumiţ.",
-	phonetic: `${phoneticInline("[Hedragh thæroumith]")}`,
+	phonetic: `${phoneticInline("[Hedhragh thæroumith]")}`,
 },
 
 {
